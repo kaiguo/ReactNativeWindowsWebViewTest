@@ -5675,18 +5675,19 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
-react-native-webview@^8.1.2:
-  version "8.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-8.1.2.tgz#c2ddb1e82d1c294f8f68a13be5d0536f7808f377"
-  integrity sha512-UnGQDttXcgp9JuexidYVu3KIQn1V9xG93yKIs7u6OMdORD5EM4lm7Z1fqqBa59LBeEii5M546kh1/rm0rDA0cA==
+react-native-webview@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-8.2.0.tgz#29fcb6ccb35d79ca0463db2229bc66598bd8b7ce"
+  integrity sha512-J/djj30WXOkhyLYvYGlyPQQxQyb8hLTw+JgYvAx/6n19YVhRyAhDSJbE/vDg/toz+gNxsnTe0xwHo2/W0tAhqw==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
+    rnpm-plugin-windows "^0.5.1-0"
 
-react-native-windows@0.61.0-beta.24:
-  version "0.61.0-beta.24"
-  resolved "https://registry.yarnpkg.com/react-native-windows/-/react-native-windows-0.61.0-beta.24.tgz#a2c5a8fa622262d95070e32cc99790a6c018742c"
-  integrity sha512-yXHQ3lT+xxarxaUGascs9Qh4L8wVvDK/TL4nDqRzs2UtpVcv773+MwCC481EUYP5bL6JmrlIf2F0GlnGPUD3mA==
+react-native-windows@^0.61.0-beta.58:
+  version "0.61.0-beta.60"
+  resolved "https://registry.yarnpkg.com/react-native-windows/-/react-native-windows-0.61.0-beta.60.tgz#2a25cb60271e56920d798bdccc340406ad11d16f"
+  integrity sha512-LxhdjjQiXSXf+aRRcugFloBo2IJLelKRgszPM7DUB6GVKm6lkOveWkzGmEObDxKcutbPP5WnG3Rb33nKMjiFcQ==
   dependencies:
     "@babel/runtime" "^7.4.0"
     cli-spinners "^2.2.0"

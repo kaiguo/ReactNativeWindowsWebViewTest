@@ -1,4 +1,6 @@
-# ReactNative for Windows WebView Test
+# ReactNative for Windows WebView Test (deprecated)
+
+## Use the example app in [react-native-webview](https://github.com/react-native-community/react-native-webview) repo instead.
 
 ## 1. Clone repo
 ```

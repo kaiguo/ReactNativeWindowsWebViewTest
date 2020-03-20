@@ -1,4 +1,5 @@
 ﻿#pragma once
+#define NOMINMAX
 
 #include <hstring.h>
 #include <restrictederrorinfo.h>
